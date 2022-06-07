@@ -1,5 +1,5 @@
 # CSharp-Advanced
-This is my homework from courses.
+This is my homework from SoftUni courses.
 
 - The repository will include exercises with:
 1. Stacks and Queues
