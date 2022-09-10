@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Truffle hunter/1.0.0": {
+        "runtime": {
+          "Truffle hunter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Truffle hunter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
